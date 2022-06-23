@@ -1,5 +1,5 @@
 {
-  "ImpactAllow": {
+  "ImpactAllowed": {
     "inboxed": {"int":{ "min": 0, "max": 100 }},
     "junked": {"int":{ "min": 0, "max": 100 }},
     "qurantined": {"int":{ "min": 0, "max": 100 }},
