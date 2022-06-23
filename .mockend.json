@@ -1,7 +1,13 @@
 {
-  "Impact": {
+  "ImpactAllow": {
     "inboxed": {"int":{ "min": 0, "max": 100 }},
     "junked": {"int":{ "min": 0, "max": 100 }},
-    "qurantined": {"int":{ "min": 0, "max": 100 }}
+    "qurantined": {"int":{ "min": 0, "max": 100 }},
+    "allowed": {"int":{"min": 0, "max":100 }}
+  },
+  "ImpactBlocked": {
+    "junked": {"int":{ "min": 0, "max": 100 }},
+    "qurantined": {"int":{ "min": 0, "max": 100 }},
+    "allowed": {"int":{"min": 0, "max":100 }}
   }
 }
