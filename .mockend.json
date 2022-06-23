@@ -4,10 +4,5 @@
     "junked": {"int":{ "min": 0, "max": 100 }},
     "quarantined": {"int":{ "min": 0, "max": 100 }},
     "allowed": {"int":{"min": 0, "max":100 }}
-  },
-  "ImpactBlock": {
-    "junked": {"int":{ "min": 0, "max": 100 }},
-    "quarantined": {"int":{ "min": 0, "max": 100 }},
-    "blocked": {"int":{"min": 0, "max":100 }}
   }
 }
