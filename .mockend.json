@@ -1,5 +1,5 @@
 {
-  "ImpactAllow": {
+  "Impactallow": {
     "inboxed": {"int":{ "min": 0, "max": 100 }},
     "junked": {"int":{ "min": 0, "max": 100 }},
     "quarantined": {"int":{ "min": 0, "max": 100 }},
